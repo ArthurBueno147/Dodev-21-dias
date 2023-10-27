@@ -1,0 +1,12 @@
+Gerar chave SSH para e-mail github
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
+Comandos CMD
+cd (navegar pelas pastas)
+
+Comandos GIT
+git init (iniciar)
+git add (adicionar algo para enviar)
+git commit (deixar arquivos prontos para enviar)
+git remote add (adicionar)
+git push (enviar alteracoes.
